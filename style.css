@@ -1,0 +1,35 @@
+.h1{
+    text-align: center;
+    font-size: 100px;
+    color: #ffffff;
+    margin-top: 10%;
+}
+.topnav {
+    overflow: hidden;
+    background-color:#ffffff;
+
+  }
+  
+  .topnav a {
+    float: right;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 30px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+  
+  .topnav a:hover {
+    background-color: #8c8c8c;
+    color: rgb(255, 255, 255);
+  }
+.body{
+    background: #ff0000;
+}
+.btm{
+    margin-top: 20%;
+    margin-left: 45%;
+    width: 170px;
+    height: 50px;
+}
